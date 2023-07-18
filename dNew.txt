@@ -2,4 +2,4 @@
 
 modificare 2
 
-modificare din intellij
+modificare din github
